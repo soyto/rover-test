@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "rover-test/build/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "rover-test/build/static/js/main.47bd980c.chunk.js",
-    "main.js.map": "rover-test/build/static/js/main.47bd980c.chunk.js.map",
-    "runtime-main.js": "rover-test/build/static/js/runtime-main.89620ab7.js",
-    "runtime-main.js.map": "rover-test/build/static/js/runtime-main.89620ab7.js.map",
-    "static/js/2.5e0d62ba.chunk.js": "rover-test/build/static/js/2.5e0d62ba.chunk.js",
-    "static/js/2.5e0d62ba.chunk.js.map": "rover-test/build/static/js/2.5e0d62ba.chunk.js.map",
-    "static/js/3.7747fb90.chunk.js": "rover-test/build/static/js/3.7747fb90.chunk.js",
-    "static/js/3.7747fb90.chunk.js.map": "rover-test/build/static/js/3.7747fb90.chunk.js.map",
-    "index.html": "rover-test/build/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "rover-test/build/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.5e0d62ba.chunk.js.LICENSE.txt": "rover-test/build/static/js/2.5e0d62ba.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "rover-test/build/static/media/logo.6ce24c58.svg"
+    "main.css": "/rover-test/build/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/rover-test/build/static/js/main.47bd980c.chunk.js",
+    "main.js.map": "/rover-test/build/static/js/main.47bd980c.chunk.js.map",
+    "runtime-main.js": "/rover-test/build/static/js/runtime-main.073e6315.js",
+    "runtime-main.js.map": "/rover-test/build/static/js/runtime-main.073e6315.js.map",
+    "static/js/2.5e0d62ba.chunk.js": "/rover-test/build/static/js/2.5e0d62ba.chunk.js",
+    "static/js/2.5e0d62ba.chunk.js.map": "/rover-test/build/static/js/2.5e0d62ba.chunk.js.map",
+    "static/js/3.7747fb90.chunk.js": "/rover-test/build/static/js/3.7747fb90.chunk.js",
+    "static/js/3.7747fb90.chunk.js.map": "/rover-test/build/static/js/3.7747fb90.chunk.js.map",
+    "index.html": "/rover-test/build/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/rover-test/build/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.5e0d62ba.chunk.js.LICENSE.txt": "/rover-test/build/static/js/2.5e0d62ba.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rover-test/build/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.89620ab7.js",
+    "static/js/runtime-main.073e6315.js",
     "static/js/2.5e0d62ba.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.47bd980c.chunk.js"
