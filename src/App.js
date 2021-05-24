@@ -1,10 +1,9 @@
 
 import { Header, Title } from 'components/layout';
+import {RoverControlPanel} from 'components';
 
 import {
-  Container,
-  Row,
-  Col
+  Container
 } from 'react-bootstrap';
 
 /**
@@ -16,19 +15,8 @@ function App() {
     <>
     <Header />
     <Container fluid>
-      <Row>
-        <Col>
-          <Title title="Rover test" />
-        </Col>
-      </Row>
-      <Row>
-        <Col>
-          Here the user will produce the input, so this should be a panel.
-        </Col>
-        <Col>
-          Here the output should be done.
-        </Col>
-      </Row>
+      <Title title="Rover test" />
+      <RoverControlPanel />
     </Container>
     </>
   );

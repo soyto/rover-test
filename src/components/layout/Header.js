@@ -1,6 +1,3 @@
-import PropTypes from 'prop-types';
-import cx from 'classnames';
-
 import {Navbar} from 'react-bootstrap';
 
 /**

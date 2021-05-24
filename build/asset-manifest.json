@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/rover-test/build/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/rover-test/build/static/js/main.47bd980c.chunk.js",
-    "main.js.map": "/rover-test/build/static/js/main.47bd980c.chunk.js.map",
-    "runtime-main.js": "/rover-test/build/static/js/runtime-main.073e6315.js",
-    "runtime-main.js.map": "/rover-test/build/static/js/runtime-main.073e6315.js.map",
-    "static/js/2.5e0d62ba.chunk.js": "/rover-test/build/static/js/2.5e0d62ba.chunk.js",
-    "static/js/2.5e0d62ba.chunk.js.map": "/rover-test/build/static/js/2.5e0d62ba.chunk.js.map",
-    "static/js/3.7747fb90.chunk.js": "/rover-test/build/static/js/3.7747fb90.chunk.js",
-    "static/js/3.7747fb90.chunk.js.map": "/rover-test/build/static/js/3.7747fb90.chunk.js.map",
+    "main.css": "/rover-test/build/static/css/main.d42194b9.chunk.css",
+    "main.js": "/rover-test/build/static/js/main.b1d94466.chunk.js",
+    "main.js.map": "/rover-test/build/static/js/main.b1d94466.chunk.js.map",
+    "runtime-main.js": "/rover-test/build/static/js/runtime-main.6918eb96.js",
+    "runtime-main.js.map": "/rover-test/build/static/js/runtime-main.6918eb96.js.map",
+    "static/js/2.61c23652.chunk.js": "/rover-test/build/static/js/2.61c23652.chunk.js",
+    "static/js/2.61c23652.chunk.js.map": "/rover-test/build/static/js/2.61c23652.chunk.js.map",
+    "static/js/3.18426bd5.chunk.js": "/rover-test/build/static/js/3.18426bd5.chunk.js",
+    "static/js/3.18426bd5.chunk.js.map": "/rover-test/build/static/js/3.18426bd5.chunk.js.map",
     "index.html": "/rover-test/build/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/rover-test/build/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.5e0d62ba.chunk.js.LICENSE.txt": "/rover-test/build/static/js/2.5e0d62ba.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/rover-test/build/static/media/logo.6ce24c58.svg"
+    "static/css/main.d42194b9.chunk.css.map": "/rover-test/build/static/css/main.d42194b9.chunk.css.map",
+    "static/js/2.61c23652.chunk.js.LICENSE.txt": "/rover-test/build/static/js/2.61c23652.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.073e6315.js",
-    "static/js/2.5e0d62ba.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.47bd980c.chunk.js"
+    "static/js/runtime-main.6918eb96.js",
+    "static/js/2.61c23652.chunk.js",
+    "static/css/main.d42194b9.chunk.css",
+    "static/js/main.b1d94466.chunk.js"
   ]
 }
