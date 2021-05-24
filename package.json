@@ -14,7 +14,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test"
   },
   "eslintConfig": {
     "extends": [
@@ -33,5 +33,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "bootstrap": "^4.6.0",
+    "node-sass": "^6.0.0",
+    "react-bootstrap": "^1.6.0"
   }
 }
