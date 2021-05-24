@@ -1,25 +1,41 @@
-import logo from './logo.svg';
-import './App.css';
 
+import { Header, Title } from 'components/layout';
+
+import {
+  Container,
+  Row,
+  Col
+} from 'react-bootstrap';
+
+/**
+ * Application component
+ * @return {ReactDOM}
+ */
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <Header />
+    <Container fluid>
+      <Row>
+        <Col>
+          <Title title="Rover test" />
+        </Col>
+      </Row>
+      <Row>
+        <Col>
+          Here the user will produce the input, so this should be a panel.
+        </Col>
+        <Col>
+          Here the output should be done.
+        </Col>
+      </Row>
+    </Container>
+    </>
   );
 }
 
+App.displayName = 'App';
+App.propTypes = {
+
+};
 export default App;
